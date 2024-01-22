@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.frame-border {
+    margin: auto;
+    width: 330px;
+     padding-top: 30px; 
+    /*height: 577px;*/
+    outline: none;
+    border: 1px solid black;
+    border-radius: 2px;
+    position: absolute;
+
+    /* top: 100px; */
+    background-repeat: no-repeat;
+    background-image: url(../css/warmup.png);
+    background-size: cover
+}
+
+.fit_main {
+    margin: auto;
+    justify-content: center;
+    /* position: relative; */
+    justify-items: center;
+    padding-left: 41%;
+}
+
+.fl-heading {
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+}
+
+.fl-heading2 {
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 40px;
+    color: #ceff45;
+}
+
+.fl-heading3 {
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 30px;
+    color: #ceff45;
+}
+
+/* .elapsed {
+    text-align: center;
+    width: 125px;
+    border-radius: 11px;
+    height: 69px;
+    left: 27px;
+    position: absolute;
+    border: 1px solid #ffffff;
+} */
+
+.elapsed {
+text-align: center;
+    width: 80%;
+    border-radius: 11px;
+    height: 65px;
+    border: 1px solid #ffffff;
+    position: absolute;
+}
+
+.timer2 {
+    text-align: center;
+    font-size: 21px;
+    color: #ceff45;
+    font-family: 'Poppins', sans-serif;
+    /* font-weight: lighter; */
+    /* position: relative; */
+    /* padding-left: 25px; */
+    /* margin-right: 2px; */
+}
+
+.heading2 {
+    font-size: 20px;
+    text-align: center;
+    /* font-weight: bold; */
+    color: #ceff45;
+    top: -30px;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+}
+
+.run-img {
+    height: 35px;
+    margin-top: 10px;
+    /* margin-bottom: ; */
+    /* margin-right: 15px; */
+}
+
+.walk-img {
+    height: 35px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.remain {
+    /* bottom: 117px; */
+    width: 125px;
+    border-radius: 11px;
+    height: 69px;
+    position: absolute;
+    right: 28px;
+    border: 1px solid #ffffff;
+}
+
+.timer3 {
+    text-align: center;
+    font-size: 21px;
+    color: #ceff45;
+    font-family: 'Poppins', sans-serif;
+    /* font-weight: lighter; */
+    /* padding-left: 20px; */
+}
+
+.heading3 {
+    font-size: 20px;
+    text-align: center;
+    /* text-align: center; */
+    /* font-weight: bold; */
+    color: #ceff45;
+    /* left: 40px; */
+    top: -30px;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+}
+
+.calories {
+    text-align: center;
+    margin-top: 80px;
+    width: 80%;
+    border-radius: 11px;
+    height: 65px;
+    position: absolute;
+    /* position: relative; */
+    border: 1px solid #ffffff;
+    /* left: 29px; */
+}
+
+.calories-count {
+    text-align: center;
+    font-size: 27px;
+    color: #ceff45;
+    font-family: 'Poppins', sans-serif;
+    /* font-weight: lighter; */
+    /* padding-left: 25px; */
+}
+
+.calories-heading {
+    font-size: 17px;
+    text-align: center;
+    /* font-weight: bold; */
+    color: #ceff45;
+    top: -20px;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+}
+
+.kcl-img {
+    margin-bottom: 5px;
+    margin-right: 15px;
+}
+
+.boxes {
+    display: flex;
+    justify-content: center;
+}
+
+.achhivement-heading {
+    display: flex;
+    justify-content: center;
+    color: #ceff45;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.daily-total{
+    display: flex;
+    justify-content: center;
+}
+.total {
+    display: flex;
+    color: #ceff45;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 10px;
+}
+
+.total-time {
+    color: #ffffff;
+}
+.total-kcal{
+    color: #ffffff;
+}
+.total-calorie{
+    color: #ceff45;
+  text-align: center;
+}
+
+.achivement {
+    display: block;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    border: 2px solid #CEFF45;
+    background: none;
+    width: 218px;
+    border-radius: 11px;
+    color:#ffffff;
+    height: 46px;
+}
+.achivement:hover{
+    background-color: black;
+    color: #CEFF45;
+}
+.homeicon{
+    color: #CEFF45;
+    font-size: 14pt;
+}
+
+.heading-complete{
+    margin-top:180px; 
+    font-size:16px;
+    text-align: center;
+    color: #ceff45;
+    font-family: 'Poppins', sans-serif;
+    padding: 0 20px;
+    line-height: 1.3;
+}
+.heading-complete span{
+    font-size:26px;
+    display:block;
+    padding: 10px;
+}
+
+
+@media (max-width: 800px) {
+	.frame-border {
+		width: 100%;
+		height:100%;
+        margin: 0;
+        left: 0;
+	}
+
+
+	.frame-border {
+		
+	}
+
+	.section1 {
+		margin: 0;
+		height: 100%;
+		margin-top: -10%;
+	}
+
+    
+
+}

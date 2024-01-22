@@ -1,0 +1,27 @@
+Dear FitLynk Team
+
+First of all thank you very much for your patience with us, We have discussed your requests and observations for RunMate and have come to the following conclusions:
+Adjustments:
+
+1.	We are working on fixing the lock key issue. (Done)
+2.	We will change the background picture on the homepage to match the other screens. (Done)
+3.	We will fix the screen size on mobile devices.
+4.	We will change "Jogging" to "Walking." (Done)
+5.	The training time in the summary screen will be the combination of running and walking, with no breakdown. (They approaved the designed - But still we are changing. Done )
+6.	We will name the table "Wo_Users" instead of "wo_users." (Tables was given by you with small caps. But still we are chaning it to your need. Done)
+7.	We will add voice instructions at the start of each phase as shared in the WhatsApp group. (Done)
+
+Observations:
+
+Following observations, you provided were developed based on guidelines and reference application C25K. However, we acknowledge that the changes you suggested could be beneficial for the betterment of the RunMate app and as a long-term partner, we will work to implement the suggested changes.
+
+1.	Program should automatically move to the following day after cooldown and end. (Done)
+2.	We will make changes so that the screen automatically moves to 6 of 6. (Need understanding)
+3.	We will add an explanation on the first page of the app about what RunMate is and how it can help users achieve their running goals. (Done)
+
+Regarding your requests that are not within our scope, we apologize in advance, but we cannot accommodate the following:
+
+1.	Vibration instead of a ding sound at the start of every cycle. (Added code but not working on my phone)
+2.	Security (We cannot guarantee that if a user changes the script from their client side to increase the time used for training, it will be reflected in our stored values in the DB.) 
+
+Please let us know if you have any further questions
