@@ -16,6 +16,13 @@ I have significantly contributed to the development of RunMate by FitLynk, a dyn
 3. **Enhanced User Experience**:
     - Implemented features to increase user engagement and satisfaction by tailoring running levels progressively to meet fitness goals effectively.
     - Collaborated with the team to incorporate user feedback and iterate on features, ensuring a user-friendly and intuitive interface.
+  
+#### Tech Stack
+
+- **Programming Languages**: HTML5, CSS3, PHP, MySQL
+- **Operating Systems**: Linux
+- **Tools & Applications**: Git, Jira
+- **Frameworks and Cloud Services**: Bootstrap
 
 #### Impact:
 My contributions have played a pivotal role in shaping the functionality and user experience of RunMate by FitLynk, empowering users to pursue their fitness goals effectively and stay motivated on their running journey.
