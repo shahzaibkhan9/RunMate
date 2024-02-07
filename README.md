@@ -20,16 +20,20 @@ I have significantly contributed to the development of RunMate by FitLynk, a dyn
 #### Impact:
 My contributions have played a pivotal role in shaping the functionality and user experience of RunMate by FitLynk, empowering users to pursue their fitness goals effectively and stay motivated on their running journey.
 
+---
+
 # RunMate
 
-# Author 
+## Author 
 Xloop Digital Services
 
-# Configuration
-1: Import all sql files from DB folder in the following sequence:
-    a) rm_base
-    b) rm_users
-    c) rm_user_log
+## Configuration
+1. **Database Setup**:
+   - Import all SQL files from the DB folder in the following sequence:
+      a) rm_base
+      b) rm_users
+      c) rm_user_log
 
-2: Goto xloop/xl_config.php and replace values with your own values
+2. **Configuration File**:
+   - Navigate to `xloop/xl_config.php` and replace the placeholder values with your own configuration details.
 
