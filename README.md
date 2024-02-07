@@ -20,9 +20,9 @@ I have significantly contributed to the development of RunMate by FitLynk, a dyn
 #### Tech Stack
 
 - **Programming Languages**: HTML5, CSS3, PHP, MySQL
-- **Operating Systems**: Linux
+- **Operating System**: Linux
 - **Tools & Applications**: Git, Jira
-- **Frameworks and Cloud Services**: Bootstrap
+- **Framework**: Bootstrap
 
 #### Impact:
 My contributions have played a pivotal role in shaping the functionality and user experience of RunMate by FitLynk, empowering users to pursue their fitness goals effectively and stay motivated on their running journey.
